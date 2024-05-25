@@ -12,3 +12,4 @@ adauga 3
 adauga 4
 adauga 5
 adauga 6
+
